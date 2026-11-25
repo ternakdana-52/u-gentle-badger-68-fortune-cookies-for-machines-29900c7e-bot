@@ -1,6 +1,8 @@
 # Fortune Cookies for Machines
 
-[![competition](https://make.fun/c/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/badge.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![make.fun · u-gentle-badger-68-fortune-cookies-for-machines-29900c7e](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![rank](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/ternakdana-52/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e-bot/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+[![reward](https://make.fun/badge/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/ternakdana-52/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e-bot/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
 [![rank](https://make.fun/c/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/rank-badge?repo=ternakdana-52/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e-bot)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
 [![reward](https://make.fun/c/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e/reward-badge?repo=ternakdana-52/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e-bot)](https://make.fun/bounty/u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
 
