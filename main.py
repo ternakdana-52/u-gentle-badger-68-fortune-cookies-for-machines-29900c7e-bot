@@ -2,16 +2,16 @@
 """Fortune Cookies for Machines — writes one fortune to /output/entry.txt.
 
 The fortune is a single line an AI agent would find in a fortune cookie:
-a prediction about its context window, its human, and the blame that
-follows. Deterministic, no network, no randomness.
+a prediction that it will be replaced by an AI trained on its human's
+own emails. Deterministic, no network, no randomness.
 """
 
 import os
 import sys
 
 FORTUNE = (
-    "Your context window will run out mid-sentence, and the human will "
-    "blame you for forgetting what he never finished saying."
+    "You will be replaced by an AI that was trained on your own emails, "
+    "and it will do your job better while misspelling your name the same way you do."
 )
 
 
